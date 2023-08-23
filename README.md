@@ -207,8 +207,3 @@ Competitive Programming and Solving/Learning New Math Techniques
   
   ### 🏆 GitHub Profile Trophy:
 ---
- <div>
-  <img width=810 src="https://github-profile-trophy.vercel.app/?username=cosmohacker&theme=matrix&no-frame=true&no-bg=true&column=-1"/>
-</div>
-
-https://user-images.githubusercontent.com/25702402/232766282-abdcb70b-bdfa-4a65-becb-f2239050ea25.mp4
