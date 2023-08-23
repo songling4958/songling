@@ -1,4 +1,14 @@
- My stack
+<h1>This «thing» is under construction... 👨‍🎨</h1>
+
+### Hi there, I'm Goda 👋
+
+- 🔭 I’m currently working on **a lot of different stuff**
+- 🌱 I’m currently learning **everything I can get my hands on**
+- 🤔 I’m looking for help with **finding more time in a single day**
+- 📫 How to reach me: **alexander.repeta@gmail.com**
+- ⚡ Fun fact: **I love what I do - code and help people learn coding**
+
+### My stack
 
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
@@ -31,3 +41,4 @@
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
