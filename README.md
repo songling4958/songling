@@ -1,6 +1,6 @@
 <p align='center'>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=cosmohacker.cosmohacker" alt="visitors">
-  <a href="https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md">
+  <a href="https://github.com/vshymanskyy/StandWithJapan/blob/main/docs/README.md">
     <img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg" alt="StandWithUkraine">
   </a>
   <img src="https://www.codewars.com/users/cosmohacker/badges/micro" alt="CodeWars badge">
