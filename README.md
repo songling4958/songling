@@ -193,14 +193,6 @@ Competitive Programming and Solving/Learning New Math Techniques
 #### 🔮 OS
 [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 
-
-  <br/>
-  <img src="https://github.com/cosmohacker/github-components/blob/main/git3.png">
-  <br/>
   
-  ![Frame 66](https://user-images.githubusercontent.com/25702402/228217616-1c47d6be-f13a-4d76-9b27-fcc17051b2bc.gif)
-
-
-  
-  ### 🏆 GitHub Profile Trophy:
+### 🏆 GitHub Profile Trophy:
 ---
